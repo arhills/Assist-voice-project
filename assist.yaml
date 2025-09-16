@@ -58,8 +58,8 @@ substitutions:
   hidden_ssid: "false"
   name: con-assist
   friendly_name: con-assist
-  ota_password: "cb3bf3b42342081504c828ceb9251ce6"
-  key_encryption: "k6pcYpUcmIIgrKSKCJaX041sxo99wanJJrThOhT7m0k="
+  ota_password: "stuff"
+  key_encryption: "stuff"
   i2s_lrclk: GPIO11
   i2s_bclk: GPIO09
   i2s_ws: GPIO05
